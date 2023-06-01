@@ -6,7 +6,7 @@
 
 # Election audit results
 
-/Users/bachau/Desktop/Module3/Election_results.png
+![](Election_results.png)
 
     * First of all, we have been instructed to find out the total  number of votes which is in our case: 369,711. 
     * The majority county votes were identified in Denver, obtaining 82.8% of the total votes (306,055). On the opposite pole, it would be Arapahoe, with only 24,801 votes, only  6.7% of the total votes. Regarding Jefferson, we could affirm that it was registered 38,855 of votes, the rest of 10.5% of the total votes.
